@@ -1,5 +1,6 @@
 # ACP-and-ANOVA
-A small project to introduce the notions of data cleaning and multivariate analysis.
+A small project to introduce the notions of data cleaning and multivariate analysis using openfoodfacts' dataset.
+You can find the dataset here : https://fr.openfoodfacts.org/cgi/search.pl
 
 This was my first real project introducing these concepts.
 
